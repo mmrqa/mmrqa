@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marvin
 - 👀 I’m interested in traveling, coding, handball
-- 🌱 I’m currently learning vue
+- 🌱 I’m currently learning react
 
 <!---
 mmrqa/mmrqa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
